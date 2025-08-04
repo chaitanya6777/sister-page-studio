@@ -61,7 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'status-available': 'hsl(var(--status-available))',
+				'status-booked': 'hsl(var(--status-booked))',
+				'status-closed': 'hsl(var(--status-closed))',
+				'sport-tab': 'hsl(var(--sport-tab))',
+				'sport-tab-active': 'hsl(var(--sport-tab-active))',
+				'map-bg': 'hsl(var(--map-bg))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
